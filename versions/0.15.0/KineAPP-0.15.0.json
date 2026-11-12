@@ -1,0 +1,14 @@
+{
+ "version": "0.15.0",
+ "archive": "versions/0.15.0/KineAPP-0.15.0.tar.gz",
+ "sha256": "fabcc373d2f42c98312ea91ba347b7cc2167fd4bf1da3f3f88fbd2315fb593e4",
+ "octets": 18745746,
+ "commit": "68adaab",
+ "statut": "bêta",
+ "date": "2026-11-12",
+ "macos_min": "13.0",
+ "changements": [
+  "Version 0.15.0 : installation par un paquet .pkg et mises à jour téléchargées, sans Terminal ni outils de développement",
+  "Installation simple sur les Mac des collègues : version construite et signée, paquet .pkg, mises à jour signalées (en cours)"
+ ]
+}
